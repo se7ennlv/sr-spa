@@ -1,10 +1,10 @@
 <?php
 
 $data = array(
-    "server" => "172.16.98.142",
-    "db" => "HoN",
-    "user" => "sa",
-    "password" => "Kiss@@33",
+    "server" => "",
+    "db" => "",
+    "user" => "",
+    "password" => "",
 );
 
 try {
